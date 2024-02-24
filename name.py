@@ -1,2 +1,2 @@
-name = input(str())
+name = str(input())
 print(" hola ",name)
